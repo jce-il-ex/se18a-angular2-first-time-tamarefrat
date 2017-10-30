@@ -80,3 +80,6 @@ Last question is if Firebase should over write file index.html. The answer to th
 </i>
 now run: <br>$ firebase deploy
 
+my url:
+https://say-cook-book.firebaseapp.com/
+
